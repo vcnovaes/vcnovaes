@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vcnovaes
+- 👋 Hi, I’m @vcnovaes, Software Engineer Intern at @VTEX
 - 👀 I’m interested in Backend-Development and Cloud Computing
 - 🌱 I’m currently learning Google Cloud, AWS and .NET 
 - 💞️ I’m looking to collaborate on Web Development projects
