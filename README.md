@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vcnovaes, Software Engineer Intern at @VTEX
+- 👋 Hi, I’m @vcnovaes, Software Engineer Intern at VTEX
 - 👀 I’m interested in Backend-Development and Cloud Computing
-- 🌱 I’m currently learning Google Cloud, AWS and .NET 
-- 💞️ I’m looking to collaborate on Web Development projects
-- 📫 How to reach me: vini2novaes@gmail.com
+- 🌱 I’m currently learning about concurrency and distributed systems 
+- 💞️ I’m looking to collaborate on Backend projects
+- 📫 How to reach me: vini2novaes@gmail.com or vcn2@cin.ufpe.br
 
 <!---
 vcnovaes/vcnovaes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
