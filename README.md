@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vcnovaes, Software Engineer Intern at VTEX
+- 👋 Hi, I’m @vcnovaes, Software Engineer at Nubank
 - 👀 I’m interested in Backend-Development and Cloud Computing
 - 🌱 I’m currently learning about concurrency and distributed systems 
 - 💞️ I’m looking to collaborate on Backend projects
