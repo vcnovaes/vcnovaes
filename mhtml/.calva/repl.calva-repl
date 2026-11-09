@@ -1,0 +1,86 @@
+; This is the Calva REPL Window.
+; It's just a file, really, with some special treatment from Calva.
+; Use it as a REPL input prompt if you like. (When the REPL is connected.)
+; TIPS: The keyboard shortcut `ctrl+alt+o r` shows and focuses this window
+; Please see https://calva.io/repl-window/ for more info.
+; Happy coding! ♥️
+
+; TIPS: As with any Clojure file when the REPL is connected:
+; - `alt+enter` evaluates the current top level form.
+; - `ctrl+enter` evaluates the current form.
+; Special for this file:
+; - `alt+up` and `alt+down` traverse up and down the REPL command history
+;    when the cursor is after the last contents at the prompt
+; 
+; See also the Calva Inspector: https://calva.io/inspector/
+
+(when-let [requires (resolve 'clojure.main/repl-requires)] (clojure.core/apply clojure.core/require @requires))
+clj꞉mhtml.core꞉> 
+
+
+
+clj꞉mhtml.core꞉> 
+(defn -main
+  "I don't do a whole lot ... yet."
+  [& args]
+  (println "Hello, World!"))
+clj꞉mhtml.core꞉> 
+(defn -main
+  "I don't do a whole lot ... yet."
+  [& args]
+  (println "Hello, World!"))
+clj꞉mhtml.core꞉> 
+
+
+
+
+clj꞉mhtml.core꞉> 
+(ns mhtml.core
+  (:gen-class))
+
+(defn -main
+  "I don't do a whole lot ... yet."
+  [& args]
+  (println "Hello, World!"))
+
+
+(-main)
+clj꞉mhtml.core꞉> 
+(ns mhtml.core
+  (:gen-class))
+
+(defn -main
+  "I don't do a whole lot ... yet."
+  [& args]
+  (println "Hello, World!"))
+
+
+(-main)
+clj꞉mhtml.core꞉> 
+(println "Hellp")
+clj꞉mhtml.core꞉> 
+(ns mhtml.core
+  (:gen-class))
+
+(defn -main
+  "I don't do a whole lot ... yet."
+  [& args]
+  (println "Hello, World!"))
+
+(def x 4)
+x
+clj꞉mhtml.core꞉> 
+clj꞉mhtml.settings꞉> 
+
+settings-file
+
+; Results are configured to appear in the Output Terminal and Output Sidebar.
+; To reveal the output, use the command:
+; > Calva: Show/Open the result output destination
+clj꞉mhtml.settings꞉> 
+settings
+clj꞉mhtml.settings꞉> 
+4
+clj꞉mhtml.settings꞉> 
+4
+clj꞉mhtml.settings꞉> 

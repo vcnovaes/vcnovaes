@@ -1,0 +1,4 @@
+{
+ :target-folder "path/to/target"
+ :src-folder "path/to/src"
+}
